@@ -1,0 +1,25 @@
+.h3{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.pash{
+    font-size: 17px;
+    font-family: sans-serif;
+}
+.blok{
+    width: 615px;
+}
+.conteiner{
+    display: flex;
+    flex-direction:row;
+}
+.login1{
+    margin-top: 94px;
+    height: 30px;  
+    width: 300px; 
+    border-radius: 5px;
+}
+.fnduf{
+    color:firebrick;
+}
